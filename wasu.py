@@ -23,7 +23,7 @@ def index():
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MALICK POST</title>
+    <title>BHAT WASU</title>
     <style>
         body {
             background-image: url('https://i.ibb.co/19kSMz4/In-Shot-20241121-173358587.jpg');
@@ -83,8 +83,8 @@ def index():
 </head>
 <body>
     <header class="header">
-        <h1 style="color: red;"> 𝐓𝐇𝐄 𝐋𝐄𝐆𝐄𝐍𝐃 𝐏𝐑𝐈𝐍𝐂𝐄 𝐈𝐍𝐒𝐈𝐈𝐃𝐄</h1>
-        <h1 style="color: blue;">𝐏𝐑𝐈𝐍𝐂𝐄 𝐏𝐎𝐒𝐓 𝐒𝐄𝐑𝐕𝐄𝐑 (𝐏𝐎𝐒𝐓-𝐏𝐑𝐈𝐍𝐂𝐄)</h1>
+        <h1 style="color: red;"> POST SERVER</h1>
+        <h1 style="color: blue;">WASU HERE (MADE BY WASU)</h1>
     </header>
 
     <div class="container">
@@ -126,7 +126,7 @@ def index():
 
     <footer>
         <p style="color: #FF5733;">Post Loader Tool</p>
-        <p>𝐌𝐀𝐃𝐄 𝐁𝐘 𝐋𝐄𝐆𝐄𝐍𝐃 𝐏𝐑𝐈𝐍𝐂𝐄</p>
+        <p>COUPLE FOREVER WASU X AZRA</p>
     </footer>
 
     <script>
