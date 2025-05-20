@@ -26,7 +26,7 @@ def index():
     <title>BHAT WASU</title>
     <style>
         body {
-            background-image: url('https://i.ibb.co/19kSMz4/In-Shot-20241121-173358587.jpg');
+            background-image: url('https://i.ibb.co/8LjXnrCz/7907ed423e261d4ae7bce68c69e9c447.jpg');
             background-size: cover;
             background-repeat: no-repeat;
             color: white;
